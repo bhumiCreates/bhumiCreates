@@ -17,7 +17,10 @@
 - 🎯 Aspiring data professional focused on **turning raw data into meaningful insights**
 
 ---
-
+<p align="center" >
+  <img src="https://komarev.com/ghpvc/?username=bhumiCreates&label=Profile%20Views&color=blue&style=flat" />
+</p>
+<br>
 
 ## <picture><img src = "https://img.icons8.com/?size=100&id=rqxQtUue6iQU&format=png&color=000000" height = "30px" /></picture>  GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumiCreates&theme=algolia&bg_color=0D1117&color=79D7FF&line=3d5eff&point=FFD700)
@@ -85,10 +88,6 @@
 <a href="mailto:bhumiwadhwani.work@gmail.com" >
   <img align="center" alt="BhumiWadhwani | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 <p>
-  
-<br>
-
-
 
 
 > Check my repositories to see what I’m currently building 👇
