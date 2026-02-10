@@ -9,13 +9,13 @@
 
 
 ## 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumiCreates&theme=react-dark&bg_color=0D1117&color=79D7FF&line=FF69B4&point=FFD700)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumiCreates&theme=algolia&bg_color=0D1117&color=79D7FF&line=3d5eff&point=FFD700)
 
 ---
 
 ## 📈 GitHub Stats and Contributions
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumiCreates&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumiCreates&theme=algolia" height="180px"/>
 </div>
 
 ---
@@ -35,65 +35,32 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/BhumiWadhwani?theme=dark&font=Baloo&ext=contest)
+<p align="center">
+  <a href="https://leetcode.com/BhumiWadhwani/">
+    <img 
+      src="https://img.shields.io/badge/LeetCode-BhumiWadhwani-algolia?style=for-the-badge&logo=leetcode"
+    />
+  </a>
+</p>
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-BhumiWadhwani-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/BhumiWadhwani/)
-
-
----
-
-## 🛠 Tech Stack
-
-
-### 🤖 Machine Learning & Data
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
-### 🗄 Databases & BI
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<table align="center" style="border:2px solid #1f6feb;">
+  <tr>
+    <td>
+      <a href="https://leetcode.com/BhumiWadhwani/">
+          <img src="https://github-readme-leetcode-card.romitsagu.com/BhumiWadhwani?theme=algolia&show=graph,recent" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧠 Core CS
-![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0A0A0A?style=for-the-badge)
+### 🛠 &nbsp; Tech Stack
 
----
-
-### 💻 Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 🧰 Tools, DevOps & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
-
----
+|<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width=40> | <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++" width=40> | <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript" width="40"> | <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="40"> | <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="40"> | <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="40"> | <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="MySql" width="40"> | <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="40">  | <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" alt="Excel" width="40">  | <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="40"> | <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="40"> | <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="Numpy" width="40"> | <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" alt="Matplotlib" width="40"> | <img src="https://img.icons8.com/?size=100&id=Cy4DRjeYKjRa&format=png&color=000000" alt="Photoshop" width="40"> | 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="Github" width="40"> | 
+<hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -106,7 +73,7 @@
 
 ---
 <div align="center">
-  <h3><b> Can Connect With Me On</b></h3>
+  <h3><b>Connect With Me On</b></h3>
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/bhumikawadhwani/" target="_blank">
@@ -124,7 +91,7 @@
   
 <br>
 
-![GitHub contribution snake](https://raw.githubusercontent.com/bhumiCreates/bhumiCreates/main/github-contribution-grid-snake.svg)
+
 
 
 > Check my repositories to see what I’m currently building 👇
