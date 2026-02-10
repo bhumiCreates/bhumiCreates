@@ -1,24 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhumi</h1>
 <h3 align="center">Data Science Student | Machine Learning Enthusiast | Problem Solver</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Data+Science+Student;Machine+Learning+%26+Data+Analysis;Python+%26+DSA;Turning+Data+Into+Insights" />
 </p>
-
----
-
-
-## 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumiCreates&theme=algolia&bg_color=0D1117&color=79D7FF&line=3d5eff&point=FFD700)
-
----
-
-## 📈 GitHub Stats and Contributions
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumiCreates&theme=algolia" height="180px"/>
-</div>
-
----
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me 
 
@@ -32,9 +16,22 @@
 - 🐳 Exploring **PowerBI** to build reproducible and scalable data analytics
 - 🎯 Aspiring data professional focused on **turning raw data into meaningful insights**
 
+---
+
+
+## <picture><img src = "https://img.icons8.com/?size=100&id=rqxQtUue6iQU&format=png&color=000000" height = "30px" /></picture>  GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumiCreates&theme=algolia&bg_color=0D1117&color=79D7FF&line=3d5eff&point=FFD700)
 
 ---
 
+## <picture><img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" height="25px"/> </picture> GitHub Stats and Contributions
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumiCreates&theme=algolia" height="180px"/>
+</div>
+
+---
+
+## <picture><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="25px"/> </picture> Leetcode Statistics
 <p align="center">
   <a href="https://leetcode.com/BhumiWadhwani/">
     <img 
@@ -62,7 +59,7 @@
 |<img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="Github" width="40"> | 
 <hr>
 
-### ⚙️ &nbsp;GitHub Analytics
+### <picture><img src="https://img.icons8.com/?size=100&id=11890&format=png&color=000000" height="25px"/> </picture>GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/bhumiCreates">
