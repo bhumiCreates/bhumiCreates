@@ -83,11 +83,9 @@
 <a href="https://x.com/bhumi_2606" target="_blank">
   <img align="center" alt="BhumiWadhwani | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/bhumi_wadhwani46/" target="_blank">
-  <img align="center" alt="BhumiWadhwani | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
 <a href="mailto:bhumiwadhwani.work@gmail.com" >
   <img align="center" alt="BhumiWadhwani | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a>
 <p>
 
 
