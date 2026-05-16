@@ -8,13 +8,13 @@
 
 <br>
 
-- 🎓 Data Science student passionate about **Machine Learning, Data Analysis, and Analytics**
-- 🐍 Strong proficiency in **Python** for data wrangling, analysis, and model building
-- 🤖 Hands-on experience with **ML libraries** like NumPy, Pandas, Matplotlib, and Scikit-learn
-- 📊 Skilled in **Power BI** for creating interactive dashboards and data-driven insights
-- 🧠 Solid understanding of **Data Structures & Algorithms** for problem-solving
-- 🐳 Exploring **PowerBI** to build reproducible and scalable data analytics
-- 🎯 Aspiring data professional focused on **turning raw data into meaningful insights**
+-📱 Frontend Mobile App Developer crafting modern, responsive, and user-focused applications with **React Native**.  
+-⚛️ Passionate about clean UI design, smooth user experiences, and scalable frontend development.  
+-🎓 Data Science enthusiast exploring Machine Learning, Analytics, and intelligent data-driven solutions.  
+-🐍 Skilled in Python with hands-on experience in NumPy, Pandas, Matplotlib, and Scikit-learn.  
+-📊 Creating interactive dashboards and actionable insights using Power BI.  
+-🧠 Building a strong foundation in **Data Structures & Algorithms** with a problem-solving mindset.  
+-🚀 Blending mobile app development and data science to build impactful and innovative digital experiences.
 
 ---
 <p align="center" >
@@ -57,9 +57,10 @@
 
 ### 🛠 &nbsp; Tech Stack
 
-|<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width=50> | <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++" width=50> | <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript" width="50">| <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50">| <img src="https://github.com/user-attachments/assets/08b739a3-048d-4934-9835-6d1652e34e5e" alt="CSS" width="50"> | <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50"> | <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="MySql" width="50"> | <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="50"> | <img src="https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000" alt="Excel" width="50">  | <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="50"> | <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="50"> | <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="Numpy" width="50"> | <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" alt="Matplotlib" width="50"> | <img src="https://img.icons8.com/?size=100&id=Cy4DRjeYKjRa&format=png&color=000000" alt="Photoshop" width="50"> | 
+|<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width=50> | <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++" width=50> | <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript" width="50">| <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50">| <img src="https://github.com/user-attachments/assets/08b739a3-048d-4934-9835-6d1652e34e5e" alt="CSS" width="50"> | <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50"> | <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="MySql" width="50"> | <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="50">| <img width="50" alt="image" src="https://github.com/user-attachments/assets/cdf9d8f3-f45c-498d-8230-9bb70f159ea5" /> | <img src="https://github.com/user-attachments/assets/684971d4-99fb-442b-9925-315b07b9e847" alt="React Native" width="50"> | <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="50"> | <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="Numpy" width="50"> | <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" alt="Matplotlib" width="50"> | <img src="https://img.icons8.com/?size=100&id=Cy4DRjeYKjRa&format=png&color=000000" alt="Photoshop" width="50"> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="Github" width="50"> | <img src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" alt="Postgre sql" width="50"> | <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS code" width="50"> | <img src="https://github.com/user-attachments/assets/5c016028-6bc2-4075-882b-ec7e1b211af6" alt="Tailwind css" width="50">
+|<img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="Github" width="50"> | <img src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" alt="Postgre sql" width="50"> | <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS code" width="50"> | <img src="https://github.com/user-attachments/assets/5c016028-6bc2-4075-882b-ec7e1b211af6" alt="Tailwind css" width="50"> 
+
 <hr>
 <hr>
 
