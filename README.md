@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhumi</h1>
-<h3 align="center">Data Science Student | Machine Learning Enthusiast | Problem Solver</h3>
+<h3 align="center">Frontend Developer | Machine Learning Enthusiast | Problem Solver</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Data+Science+Student;Machine+Learning+%26+Data+Analysis;Python+%26+DSA;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Frontend+Developer;Machine+Learning+%26+Data+Analysis+Enthusiast;Turning+Designs+Into+Reality;Turning+Data+Into+Insights" />
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me 
