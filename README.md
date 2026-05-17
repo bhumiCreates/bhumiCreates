@@ -35,7 +35,7 @@
 ---
 
 ## <picture><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="25px"/> </picture> Leetcode Statistics
-<p align="center">
+<p align="center" >
   <a href="https://leetcode.com/BhumiWadhwani/">
     <img 
       src="https://img.shields.io/badge/LeetCode-BhumiWadhwani-algolia?style=for-the-badge&logo=leetcode"
@@ -57,9 +57,76 @@
 
 ### 🛠 &nbsp; Tech Stack
 
-|<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width=50> | <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="c++" width=50> | <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="Javascript" width="50">| <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" width="50">| <img src="https://github.com/user-attachments/assets/08b739a3-048d-4934-9835-6d1652e34e5e" alt="CSS" width="50"> | <img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50"> | <img src="https://img.icons8.com/?size=100&id=hYoELNwniGhi&format=png&color=000000" alt="MySql" width="50"> | <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" alt="Power BI" width="50">| <img width="50" alt="image" src="https://github.com/user-attachments/assets/cdf9d8f3-f45c-498d-8230-9bb70f159ea5" /> | <img src="https://github.com/user-attachments/assets/684971d4-99fb-442b-9925-315b07b9e847" alt="React Native" width="50"> | <img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" alt="Canva" width="50"> | <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="Numpy" width="50"> | <img src="https://img.icons8.com/?size=100&id=TkX1totjFmAD&format=png&color=000000" alt="Matplotlib" width="50"> | <img src="https://img.icons8.com/?size=100&id=Cy4DRjeYKjRa&format=png&color=000000" alt="Photoshop" width="50"> |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" alt="Github" width="50"> | <img src="https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000" alt="Postgre sql" width="50"> | <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VS code" width="50"> | <img src="https://github.com/user-attachments/assets/5c016028-6bc2-4075-882b-ec7e1b211af6" alt="Tailwind css" width="50"> 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#bhumiCreates">
+        <img src="https://github.com/user-attachments/assets/a6984b23-0c94-4f74-b4f9-a1b36b6cbe36" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#bhumiCreates">
+        <img src="https://github.com/user-attachments/assets/a7ba38a9-7c86-4d8e-8169-165836b35f6f" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#bhumiCreates">
+        <img src="https://github.com/user-attachments/assets/287927fc-2fb2-4405-aa33-9bd7c4c73517" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#bhumiCreates">
+        <img src="https://github.com/user-attachments/assets/ec634d8d-f879-401b-a021-6c5892866f31" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/4c47fe8c-561a-4749-b6e0-7ff3ebd593ab" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center" width="96"> 
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/07744b4c-87a0-4de1-8eca-93f59b917ade" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+      <a href="#bhumiCreates">
+        <img src="https://github.com/user-attachments/assets/640b29b2-7d2e-49d9-92ad-3203a0969a8a" width="48" height="48" alt="Power BI" />
+      </a>
+      <br>Power BI
+    </td>
+    <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/720b3003-b69d-4f45-98e7-e6d02a7a3840" width="48" height="48" alt="TailwindCSS" />
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/defb903f-c845-4f8d-844e-37109a610491" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/128b4d9c-3859-4d58-88fb-12828ed60d0a" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/e1459b1d-4100-4fbe-a8a3-d5215237fc0f" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+  </tr>
+</table>
 
 <hr>
 <hr>
