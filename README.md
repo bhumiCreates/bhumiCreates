@@ -119,13 +119,19 @@
       </a>
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
+  </tr>
+  <td align="center" width="96">
       <a href="#bhumiCreates" >
         <img src="https://github.com/user-attachments/assets/e1459b1d-4100-4fbe-a8a3-d5215237fc0f" width="48" height="48" alt="Github" />
       </a>
       <br>Github
     </td>
-  </tr>
+  <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/30e94538-ca35-44d9-afcd-7336e9a51d14" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
 </table>
 
 <hr>
