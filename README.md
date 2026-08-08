@@ -132,6 +132,36 @@
       </a>
       <br>Postman
     </td>
+  <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/4b398aed-5c60-48b2-8da5-e03f4485ea4f" width="48" height="48" alt="Redux Saga" />
+      </a>
+      <br>Saga
+    </td>
+  <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/4678da2f-0161-4bc5-a4ff-003b015a4f1c" width="48" height="48" alt="Vercel" />
+      </a>
+      <br>Vercel
+    </td>
+  <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/38860c58-6046-4cbe-8b79-6eb4ea008155" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/91505ef2-5647-4879-b405-35f4af72e242" width="48" height="48" alt="Redux Saga" />
+      </a>
+      <br>Typescript
+    </td>
+  <td align="center" width="96">
+      <a href="#bhumiCreates" >
+        <img src="https://github.com/user-attachments/assets/8b05ef9b-7722-43b6-9a70-3e45b23253ad" width="48" height="48" alt="Redux Saga" />
+      </a>
+      <br>Render
+    </td>
 </table>
 
 <hr>
