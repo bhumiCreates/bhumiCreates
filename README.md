@@ -23,14 +23,16 @@
 <br>
 
 ## <picture><img src = "https://img.icons8.com/?size=100&id=rqxQtUue6iQU&format=png&color=000000" height = "30px" /></picture>  GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhumiCreates&theme=algolia&bg_color=0D1117&color=79D7FF&line=3d5eff&point=FFD700)
+<p align="center" width="full">
+  <img src="https://github-profiles-insights.vercel.app/api/insight?username=bhumiCreates&card=graph&theme=algolia" alt="Contribution Graph" />
+</p>
 
----
 
 ## <picture><img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" height="25px"/> </picture> GitHub Stats and Contributions
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumiCreates&theme=algolia" height="180px"/>
 </div>
+<br>
 
 ---
 
