@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhumi</h1>
-<h3 align="center">Frontend Developer | Machine Learning Enthusiast | Problem Solver</h3>
+<h3 align="center">Frontend Developer | Data Enthusiast | Problem Solver</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Frontend+Developer;Machine+Learning+%26+Data+Analysis+Enthusiast;Turning+Designs+Into+Reality;Turning+Data+Into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Frontend+Developer;Data+Enthusiast;Turning+Designs+Into+Reality;Turning+Raw+Data+Into+Insights" />
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me 
@@ -17,10 +17,6 @@
 -🚀 Blending mobile app development and data science to build impactful and innovative digital experiences.
 
 ---
-<p align="center" >
-  <img src="https://komarev.com/ghpvc/?username=bhumiCreates&label=Profile%20Views&color=blue&style=flat" />
-</p>
-<br>
 
 ## <picture><img src = "https://img.icons8.com/?size=100&id=rqxQtUue6iQU&format=png&color=000000" height = "30px" /></picture>  GitHub Activity Graph
 <p align="center" width="full">
@@ -193,6 +189,10 @@
   <img align="center" alt="BhumiWadhwani | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
 <p>
+
+<p align="center" >
+  <img src="https://komarev.com/ghpvc/?username=bhumiCreates&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 
 > Check my repositories to see what I’m currently building 👇
