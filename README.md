@@ -24,7 +24,7 @@
 
 ## <picture><img src = "https://img.icons8.com/?size=100&id=rqxQtUue6iQU&format=png&color=000000" height = "30px" /></picture>  GitHub Activity Graph
 <p align="center" width="full">
-  <img src="https://github-profiles-insights.vercel.app/api/insight?username=bhumiCreates&card=graph&theme=algolia" alt="Contribution Graph" />
+  <img src="https://github-profiles-insights.vercel.app/api/insight?username=bhumiCreates&card=graph&theme=github_dark" alt="Contribution Graph" />
 </p>
 
 
