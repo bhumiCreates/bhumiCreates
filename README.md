@@ -17,13 +17,12 @@
 -🚀 Blending mobile app development and data science to build impactful and innovative digital experiences.
 
 ---
-
 ## <picture><img src = "https://img.icons8.com/?size=100&id=rqxQtUue6iQU&format=png&color=000000" height = "30px" /></picture>  GitHub Activity Graph
 <p align="center" width="full">
   <img src="https://github-profiles-insights.vercel.app/api/insight?username=bhumiCreates&card=graph&theme=github_dark" alt="Contribution Graph" />
 </p>
 
-
+---
 ## <picture><img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" height="25px"/> </picture> GitHub Stats and Contributions
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumiCreates&theme=algolia" height="180px"/>
@@ -31,7 +30,6 @@
 <br>
 
 ---
-
 ## <picture><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="25px"/> </picture> Leetcode Statistics
 <p align="center" >
   <a href="https://leetcode.com/BhumiWadhwani/">
@@ -52,7 +50,6 @@
 </table>
 
 ---
-
 ### 🛠 &nbsp; Tech Stack
 
 <table>
@@ -162,11 +159,8 @@
     </td>
 </table>
 
-<hr>
-<hr>
-
+---
 ### <picture><img src="https://img.icons8.com/?size=100&id=11890&format=png&color=000000" height="25px"/> </picture>GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/bhumiCreates">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bhumiCreates&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
