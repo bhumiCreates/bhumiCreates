@@ -24,14 +24,14 @@
 
 ---
 ## <picture><img src="https://img.icons8.com/?size=100&id=bVGqATNwfhYq&format=png&color=000000" height="25px"/> </picture> GitHub Stats and Contributions
-<div align="center">
+<div align="center" width="full">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhumiCreates&theme=algolia" height="180px"/>
 </div>
 <br>
 
 ---
 ## <picture><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="25px"/> </picture> Leetcode Statistics
-<p align="center" >
+<p align="center" width="full" >
   <a href="https://leetcode.com/BhumiWadhwani/">
     <img 
       src="https://img.shields.io/badge/LeetCode-BhumiWadhwani-algolia?style=for-the-badge&logo=leetcode"
@@ -39,7 +39,7 @@
   </a>
 </p>
 
-<table align="center" style="border:2px solid #1f6feb;">
+<table align="center" width="full" style="border:2px solid #1f6feb;">
   <tr>
     <td>
       <a href="https://leetcode.com/BhumiWadhwani/">
